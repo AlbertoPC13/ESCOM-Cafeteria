@@ -1,0 +1,7 @@
+.modal.rec { 
+    margin-top: 5%;
+    width: 35% !important ; 
+    height: 35% !important ; 
+    overflow: hidden;
+    border-radius: 15px;
+}
